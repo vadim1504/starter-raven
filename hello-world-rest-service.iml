@@ -47,6 +47,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.12.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.3.12.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.12.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: by.vadim.demo:spring-boot-starter-raven:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="spring-boot-starter-raven" />
   </component>
 </module>
